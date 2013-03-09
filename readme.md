@@ -10,7 +10,7 @@ KonamiShake
 
 Copy or clone the shake folder into the root directory of your website, put 
 
-    <script src="./shake/freakt.js"></script> 
+    <script src="./konamishake/freakt.js"></script> 
 
 in the webpage you wish to Shake, reload and hit the code!
 
